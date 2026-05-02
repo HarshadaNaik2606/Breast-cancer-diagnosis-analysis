@@ -1,6 +1,6 @@
-# 🧠 Breast Cancer Diagnosis Analysis
+# Breast Cancer Diagnosis Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on analyzing breast cancer data to identify key factors that influence diagnosis and to build predictive models that classify tumors as **malignant** or **benign**.
 
@@ -8,7 +8,7 @@ The goal is to combine **data analysis, visualization, and machine learning** to
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Perform data cleaning and preprocessing
 * Explore relationships between medical features
@@ -18,7 +18,7 @@ The goal is to combine **data analysis, visualization, and machine learning** to
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 * **Source:** Breast Cancer Wisconsin Dataset
 * **Samples:** 569 patients
@@ -30,7 +30,7 @@ The goal is to combine **data analysis, visualization, and machine learning** to
 
 ---
 
-## 🔍 Data Analysis & Insights
+## Data Analysis & Insights
 
 ### Key Observations:
 
@@ -47,7 +47,7 @@ The goal is to combine **data analysis, visualization, and machine learning** to
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 ### 1. Data Cleaning
 
@@ -66,7 +66,7 @@ The goal is to combine **data analysis, visualization, and machine learning** to
 
 ---
 
-## 🤖 Models Used
+## Models Used
 
 ### 🔹 Logistic Regression
 
@@ -90,11 +90,11 @@ The goal is to combine **data analysis, visualization, and machine learning** to
 * Logistic Regression performed slightly better on test data
 * It achieved **higher recall**, meaning fewer missed cancer cases
 
-👉 In medical diagnosis, minimizing **false negatives** is critical
+In medical diagnosis, minimizing **false negatives** is critical
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 * Accuracy
 * Precision
@@ -104,7 +104,7 @@ The goal is to combine **data analysis, visualization, and machine learning** to
 
 ---
 
-## 📌 Key Takeaways
+## Key Takeaways
 
 * Certain geometric features of cells are strong indicators of malignancy
 * Simpler models like Logistic Regression can outperform complex models when data is well-structured
@@ -112,7 +112,7 @@ The goal is to combine **data analysis, visualization, and machine learning** to
 
 ---
 
-## 🚀 Tools & Technologies
+## Tools & Technologies
 
 * Python
 * Pandas & NumPy
